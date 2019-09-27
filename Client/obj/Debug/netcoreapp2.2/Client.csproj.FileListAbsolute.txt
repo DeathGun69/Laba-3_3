@@ -1,0 +1,11 @@
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\bin\Debug\netcoreapp2.2\Client.deps.json
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.json
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\bin\Debug\netcoreapp2.2\Client.runtimeconfig.dev.json
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\bin\Debug\netcoreapp2.2\Client.dll
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\bin\Debug\netcoreapp2.2\Client.pdb
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\obj\Debug\netcoreapp2.2\Client.csprojAssemblyReference.cache
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\obj\Debug\netcoreapp2.2\Client.csproj.CoreCompileInputs.cache
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfoInputs.cache
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\obj\Debug\netcoreapp2.2\Client.AssemblyInfo.cs
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\obj\Debug\netcoreapp2.2\Client.dll
+c:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba3_3\Client\obj\Debug\netcoreapp2.2\Client.pdb
